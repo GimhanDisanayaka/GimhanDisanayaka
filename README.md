@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Gimhan Disanayaka 👋
 ### ICT Undergraduate | Aspiring Software Engineer
 
@@ -7,7 +6,7 @@ I am a passionate Information & Communication Technology student focused on buil
 - 🔭 I’m currently working on academic and self-projects using **Java** and **SQL**.
 - 🌱 I’m currently improving my skills in **Database Management Systems** and **Object-Oriented Programming**.
 - 💬 Ask me about: Application development or database designs.
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [sithijagimhan078@gmail.com]
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Java, SQL
@@ -15,4 +14,4 @@ I am a passionate Information & Communication Technology student focused on buil
 - **Version Control:** Git, GitHub
 
 ### 🔗 Connect with me
-[![LinkedIn](]https://www.linkedin.com/in/sithija-gimhan-disanayaka-88ba05320/)
+[![LinkedIn](www.linkedin.com/in/sithija-gimhan-disanayaka-88ba05320)
