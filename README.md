@@ -14,4 +14,4 @@ I am a passionate Information & Communication Technology student focused on buil
 - **Version Control:** Git, GitHub
 
 ### 🔗 Connect with me
-[![LinkedIn](www.linkedin.com/in/sithija-gimhan-disanayaka-88ba05320)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithija-gimhan-disanayaka-88ba05320/)
