@@ -1,16 +1,18 @@
 ## Hi there 👋
+# Hi, I'm Gimhan Disanayaka 👋
+### ICT Undergraduate | Aspiring Software Engineer
 
-<!--
-**GimhanDisanayaka/GimhanDisanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Information & Communication Technology student focused on building robust back-end systems, working with databases, and solving real-world problems through clean code.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on academic and self-projects using **Java** and **SQL**.
+- 🌱 I’m currently improving my skills in **Database Management Systems** and **Object-Oriented Programming**.
+- 💬 Ask me about: Application development or database designs.
+- 📫 How to reach me: [Your Email]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Java, SQL
+- **Databases:** MySQL / PostgreSQL
+- **Version Control:** Git, GitHub
+
+### 🔗 Connect with me
+[![LinkedIn](]https://www.linkedin.com/in/sithija-gimhan-disanayaka-88ba05320/)
